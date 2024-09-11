@@ -30,7 +30,7 @@ An IDE: Such as IntelliJ IDEA or Eclipse for writing and running the tests.
 # Key Test Cases
 1.	CHECk_CV_ANALYSIS
 2.	Login_with_Vailiduser_invailid_password
-3.	Login_with_blanck_input
+3.	Login_with_blank_input
 4.	Login_with_invailiduser_validpassword
 5.	Login_with_invaliduser_invalidpassword
 6.	login_with_valid_id_pass
