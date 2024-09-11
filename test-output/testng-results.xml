@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T13:50:49 IST" name="Default suite" finished-at="2024-09-11T13:51:50 IST" duration-ms="60790">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T13:50:49 IST" name="Default test" finished-at="2024-09-11T13:51:50 IST" duration-ms="60790">
+      <class name="GERMANY_LOGINPAGE.Login_page">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:50:49 IST" name="beforeClass" finished-at="2024-09-11T13:50:55 IST" duration-ms="6288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Login_with_blanck_input()[pri:1, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:50:55 IST" name="Login_with_blanck_input" finished-at="2024-09-11T13:50:59 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_blanck_input -->
+        <test-method signature="Login_with_invailiduser_validpassword()[pri:2, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:50:59 IST" name="Login_with_invailiduser_validpassword" finished-at="2024-09-11T13:51:09 IST" duration-ms="10253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_invailiduser_validpassword -->
+        <test-method signature="Login_with_Vailiduser_invailid_password()[pri:3, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:51:09 IST" name="Login_with_Vailiduser_invailid_password" finished-at="2024-09-11T13:51:20 IST" duration-ms="10444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_Vailiduser_invailid_password -->
+        <test-method signature="Login_with_invaliduser_invalidpassword()[pri:4, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:51:20 IST" name="Login_with_invaliduser_invalidpassword" finished-at="2024-09-11T13:51:30 IST" duration-ms="10166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_invaliduser_invalidpassword -->
+        <test-method signature="login_with_valid_id_pass()[pri:5, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:51:30 IST" name="login_with_valid_id_pass" finished-at="2024-09-11T13:51:40 IST" duration-ms="10493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_with_valid_id_pass -->
+        <test-method signature="CHECk_CV_ANALYSIS()[pri:6, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:51:40 IST" name="CHECk_CV_ANALYSIS" finished-at="2024-09-11T13:51:50 IST" duration-ms="9248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CHECk_CV_ANALYSIS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:GERMANY_LOGINPAGE.Login_page@815b41f]" started-at="2024-09-11T13:51:50 IST" name="teardown" finished-at="2024-09-11T13:51:50 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- GERMANY_LOGINPAGE.Login_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
