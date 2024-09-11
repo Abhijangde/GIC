@@ -11,6 +11,7 @@ TestNG: A testing framework used for organizing tests, generating reports, and m
 
 # Getting Started
 **Prerequisites**
+
 Java Development Kit (JDK): Version 8 or higher.
 
 Maven: For managing project dependencies.
