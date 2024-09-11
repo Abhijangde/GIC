@@ -28,7 +28,7 @@ Browser Drivers (ChromeDriver)
 
 An IDE: Such as IntelliJ IDEA or Eclipse for writing and running the tests.
 # Key Test Cases
-1.	CHECk_CV_ANALTSIS
+1.	CHECk_CV_ANALYSIS
 2.	Login_with_Vailiduser_invailid_password
 3.	Login_with_blanck_input
 4.	Login_with_invailiduser_validpassword
