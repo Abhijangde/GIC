@@ -1,5 +1,7 @@
 # Germany is Calling - Login Functionality Testing using Selenium, Java, and TestNG
 Welcome to the Germany is Calling - Login Functionality Testing repository! This project focuses on automating the testing of the login functionality for the "Germany is Calling" platform using Selenium WebDriver with Java and TestNG.
+
+
 <img width="266" alt="image" src="https://github.com/user-attachments/assets/7cba5f31-a04f-49b3-bf9b-213d6bcfb165">
 
 # Overview
