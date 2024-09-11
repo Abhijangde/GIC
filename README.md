@@ -20,6 +20,8 @@ Selenium WebDriver: Integrated via Maven dependencies.
 
 TestNG: Integrated via Maven dependencies.
 
+Browser Drivers (ChromeDriver)
+
 An IDE: Such as IntelliJ IDEA or Eclipse for writing and running the tests.
 # Key Test Cases
 1.	CHECk_CV_ANALTSIS
