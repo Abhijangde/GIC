@@ -35,6 +35,7 @@ An IDE: Such as IntelliJ IDEA or Eclipse for writing and running the tests.
 5.	Login_with_invaliduser_invalidpassword
 6.	login_with_valid_id_pass
 	
-	# Testng Report
-please find the report in GIC/test-output/index.html.
+# Testng Report
+
+Please find the report in GIC/test-output/index.html.
 
